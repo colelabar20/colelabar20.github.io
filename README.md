@@ -4,11 +4,10 @@ Science based lifting helper.
 
 ---
 
-## 🔐 Privacy Policy
-https://happy-fridge-18c.notion.site/IntelliLift-Privacy-Policy-23f8b2
+## Privacy Policy
+https://colelabar20.github.io/privacy.html
 
 ---
 
-## 📩 Support
-For support, contact:
+## Support
 colelabarre@gmail.com
